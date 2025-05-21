@@ -1,14 +1,14 @@
-## Hi there 👋
+## ¡Hola! 👋
 
-Hey, I'm **Luisa Mora**! I'm a developer who enjoys both **frontend** and **backend** development, always looking for new challenges. When I'm not coding, you'll probably find me listening to or playing **music**.
+¡Hola, soy **Luisa Mora**! Soy una desarrolladora que disfruta tanto el desarrollo **frontend** como el **backend**, siempre en busca de nuevos desafíos. Actualmente, estoy enfocada en aprender y dominar **Spring Boot**. Cuando no estoy programando, probablemente me encuentres escuchando o tocando **música**.
 
 ---
 
-### What I'm up to:
+### En qué estoy trabajando:
 
-- 🌱 I’m currently learning more about [mention a specific technology or concept you're learning].
-- 👯 I’m looking to collaborate on **open-source frontend projects** or **full-stack web applications**.
-- 💬 Ask me about **web development**, **JavaScript**, or **your favorite music genres**!
-- 📫 How to reach me: [Your preferred contact method, e.g., your LinkedIn profile, email address]
+- 🌱 Actualmente estoy aprendiendo más sobre **Spring Boot** para construir APIs y microservicios robustos.
+- 👯 Busco colaborar en **proyectos frontend de código abierto** o **aplicaciones web full-stack** que utilicen tecnologías como **Spring Boot** en el backend.
+- 💬 ¡Pregúntame sobre **desarrollo web**, **Spring Boot**, **JavaScript**, o tus géneros musicales favoritos!
+- 📫 Cómo contactarme: [Tu método de contacto preferido, ej. tu perfil de LinkedIn, dirección de correo electrónico]
 
 ---
