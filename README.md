@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**LuisaMora/LuisaMora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I'm **Luisa Mora**! I'm a developer who enjoys both **frontend** and **backend** development, always looking for new challenges. When I'm not coding, you'll probably find me listening to or playing **music**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm up to:
+
+- 🌱 I’m currently learning more about [mention a specific technology or concept you're learning].
+- 👯 I’m looking to collaborate on **open-source frontend projects** or **full-stack web applications**.
+- 💬 Ask me about **web development**, **JavaScript**, or **your favorite music genres**!
+- 📫 How to reach me: [Your preferred contact method, e.g., your LinkedIn profile, email address]
+
+---
