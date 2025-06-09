@@ -9,6 +9,5 @@
 - 🌱 Actualmente estoy aprendiendo más sobre **Spring Boot** para construir APIs y microservicios robustos.
 - 👯 Busco colaborar en **proyectos frontend de código abierto** o **aplicaciones web full-stack** que utilicen tecnologías como **Spring Boot** en el backend.
 - 💬 ¡Pregúntame sobre **desarrollo web**, **Spring Boot**, **JavaScript**, o tus géneros musicales favoritos!
-- 📫 Cómo contactarme: [Tu método de contacto preferido, ej. tu perfil de LinkedIn, dirección de correo electrónico]
 
 ---
